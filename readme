@@ -1,0 +1,7 @@
+inicio del proceso
+si 0=diagonal or horizontal or verttical 
+imprimir "0 wins"
+si x = diagonal or vertical or horizontal 
+imprimir "x wins"
+fin del si
+fin del porceso-

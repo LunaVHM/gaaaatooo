@@ -1,0 +1,23 @@
+td{
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid #325895;
+  font-size: 100px;
+  color: #5113aeff;
+}
+
+h1 {
+  color: #103246;
+}
+
+p {
+  color: #14497b;
+}
+ body {
+   background-color: #92bec8;
+ }
+
+div.jumbotron {
+  background-color: #7ae9ff;
+}
